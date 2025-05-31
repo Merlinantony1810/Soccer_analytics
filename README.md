@@ -29,9 +29,4 @@ This project contains my original SQL scripts and procedures designed to analyze
 
 3. Run the SQL scripts in this repository to perform the analyses.
 
-## Licensing and Attribution
 
-- The dataset is provided under the Open Database License (ODbL) v1.0 by Hugo Mathien. By using this data, you must comply with the ODbL terms, including attribution and share-alike.
-- This project’s SQL code and analysis are my original work.
-
-.
